@@ -26,6 +26,7 @@ https://www.kaggle.com/emmarex/plantdisease
 
 ## Implementation
 
+https://www.kaggle.com/code/abdelmoneimrehab/plant-disease-detection-using-keras/notebook?scriptVersionId=178116466
 
 
 
